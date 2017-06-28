@@ -1,0 +1,24 @@
+{
+  "name": "slack-bot-skeleton-nodejs",
+  "version": "1.0.0",
+  "description": "A simple skeleton for Slack bot applications in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkkapynnonen/slack-bot-skeleton-nodejs.git"
+  },
+  "author": "Erkka Pynnönen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erkkapynnonen/slack-bot-skeleton-nodejs/issues"
+  },
+  "homepage": "https://github.com/erkkapynnonen/slack-bot-skeleton-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
+  }
+}
